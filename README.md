@@ -1,0 +1,2 @@
+# Econometrics-pratice
+For pratice
