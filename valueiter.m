@@ -35,7 +35,7 @@ end
 iter = 1;
 conv = 0;
 max_iter = 1e3;
-tol = eps;
+tol = eps; %this is a very small number
 
 V = zeros(n,max_iter);
 V(:,1) = v0;
